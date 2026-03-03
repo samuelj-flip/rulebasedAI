@@ -5,7 +5,10 @@ menu = {
     "burger": 5,
     "fries": 2,
     "cola": 1.5,
-    "nuggets": 4
+    "nuggets": 4,
+    "egusi and eba": 2,
+    "nkwobi": 4,
+    "star": 1
 }
 
 order = {}
